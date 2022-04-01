@@ -15,3 +15,13 @@ for (let i = 0; i < cars.length; i++) {
 }
 
 document.getElementById("demo").innerHTML = text;
+
+
+function myFunction() {
+  document.getElementById("myDate").value = "2014-02-09";
+}
+
+
+
+
+
