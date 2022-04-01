@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    text-align: center;
+    
+}
+li{
+    
+    list-style: none;
+}
+form{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+
+.form-check-label {
+    text-align: center;
+    margin-right: 3%;
+}
+.form-check-input {
+    text-align: center;
+    
+}
+
+.space::after{
+    content: "\a";
+    white-space: pre;
+
+}
+
+.btn{
+    margin-top: 20px;
+
+}
+
